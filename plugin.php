@@ -1,6 +1,7 @@
 <?php
 /*
- Plugin Name: Josh's Pixels Etc.
+Plugin Name: Josh's Pixels Etc.
+Version: 0.1.1
 Description: Josh's FB/Twitter Tracking pixels
  */
 add_action( 'wp_head', function(){
